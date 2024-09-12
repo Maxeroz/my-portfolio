@@ -14,12 +14,16 @@ function Projects() {
     { name: "WorldWeise App", url: "https://worldwiseweb.netlify.app/" },
     {
       name: "Real Application, soccer tournament website",
-      url: "https://thepfl.netlify.app/login",
+      url: "https://thepfl.netlify.app/",
     },
     { name: "To Do List", url: "https://celadon-twilight-87b4f4.netlify.app/" },
     {
       name: "Simple Store Website",
       url: "https://storeneoflex.netlify.app/",
+    },
+    {
+      name: "The Wild Oasis",
+      url: "https://the-wild-oasis-react-app-max.netlify.app/",
     },
     // Add more projects here
   ];
